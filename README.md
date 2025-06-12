@@ -3,7 +3,7 @@
 This project is a two-stage NLP system designed to analyze and categorize quotes. It first determines whether a quote is motivational or not, and if it is, it then predicts the motivational category the quote belongs to.
 
 Overview:
-This repository contains two machine learning models. Model 1 is a binary classifier using TF-IDF + Logistic Regression to detect whether a quote is motivational. On the other hand, model 2 is a Multiclass classifier using DistilBERT to predict a motivational category from 115+ predefined categories. Quotes that are predicted as not motivational will not go through the second stage.
+This repository contains two machine learning models. Model 1 is a binary classifier using TF-IDF + Logistic Regression to detect whether a quote is motivational. On the other hand, model 2 is a multiclass classifier using DistilBERT to predict a motivational category from 115+ predefined categories. Quotes that are predicted as not motivational will not go through the second stage.
 
 Requirements:
   - Python 3.9+
