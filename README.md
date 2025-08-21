@@ -1,4 +1,4 @@
-"# NatrualLanguageProcessing_FinPro" 
+# FinPro | NatrualLanguageProcessing 
 
 This project is a two-stage NLP system designed to analyze and categorize quotes. It first determines whether a quote is motivational or not, and if it is, it then predicts the motivational category the quote belongs to.
 
